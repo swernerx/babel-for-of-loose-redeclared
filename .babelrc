@@ -6,6 +6,6 @@
     }]
   ],
   "plugins": [
-    [ "module:fast-async" ]
+    // [ "module:fast-async" ]
   ]
 }
